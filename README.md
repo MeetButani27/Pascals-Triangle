@@ -1,1 +1,1 @@
-# Pascal-s-Triangle
+# Pascals-Triangle
